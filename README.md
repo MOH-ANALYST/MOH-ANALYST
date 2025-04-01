@@ -26,7 +26,7 @@ With expertise in **SQL, Excel, Tableau, and Power BI**, I analyze data to drive
 
 ## 📫 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hámzä%20Mustapha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/h%C3%A1mz%C3%A4-mustapha-a41088238/)  
+[IN][LinkedIn](https://img.shields.io/badge/LinkedIn-Hámzä%20Mustapha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/h%C3%A1mz%C3%A4-mustapha-a41088238/)  
 📩 **Email:** [odimeji64@gmail.com](mailto:odimeji64@gmail.com)  
 
 ## ⚡ Fun Fact  
