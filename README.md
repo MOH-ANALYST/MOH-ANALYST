@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MOH-ANALYST  
+# 👋 Hi, I’m MUSTAPHA OLADIMEJI HAMZAT @MOH-ANALYST  
 
 ## 🔍 About Me  
 
