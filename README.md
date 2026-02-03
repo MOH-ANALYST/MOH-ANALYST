@@ -10,7 +10,8 @@ With expertise in **SQL, Excel, Tableau, and Power BI**, I analyze data to drive
 - 🛠 **SQL (MySQL, Microsoft SQL Server)** – Data extraction, transformation & querying  
 - 📊 **Excel** – Data cleaning, analysis & automation  
 - 📈 **Power BI & Tableau** – Interactive dashboards & data visualization  
-- 🏗 **Data Modeling & Business Intelligence** – Structuring data for better insights  
+- 🏗 **Data Modeling & Business Intelligence** – Structuring data for better insights
+- 🐍**Python**  
 
 ## 💼 What I Do  
 
